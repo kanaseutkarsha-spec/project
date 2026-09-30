@@ -1,2 +1,3 @@
 # project
-for y project
+for my mini project
+
